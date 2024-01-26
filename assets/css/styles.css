@@ -1,0 +1,12 @@
+/* google fonts*/
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@700&family=Ubuntu&display=swap');
+
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar-brand, .bd-custom {
+    font-family: 'Play', sans-serif;
+    font-size: 1.2rem;
+}
